@@ -21,7 +21,7 @@ function [parm, flow] = set_params(parm, flow, infilename)
     % parm.ntst = ...
     %
     %**********************************************************************
-    
+    parm.ntst = 20000;
 end
 
 
